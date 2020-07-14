@@ -31,7 +31,7 @@ source /[your name]/home/[your workspace]/devel/setup.bash
 roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ```
 
-![Screen Shot 2020-07-14 at 20 34 40](https://user-images.githubusercontent.com/45641051/87462062-05615100-c618-11ea-84ef-253217b7b6bf.png)
+![Screen Shot 2020-07-14 at 21 31 20](https://user-images.githubusercontent.com/45641051/87463006-75240b80-c619-11ea-8db4-e4253343bfa2.png)
 
  
 #### to launch SLAM open a new terminal tab and run: 

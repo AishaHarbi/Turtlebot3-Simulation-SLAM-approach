@@ -22,6 +22,8 @@ to run the turtlebot3 gazebo:
 source /[your name]/home/[your workspace]/devel/setup.bash 
 
 roslaunch turtlebot3_gazebo turtlebot3_world.launch
+
+[](https://imgur.com/pMLVPz2)
  
 #### to launch SLAM open a new terminal tab and run: 
 

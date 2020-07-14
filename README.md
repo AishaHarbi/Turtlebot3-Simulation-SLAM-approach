@@ -23,7 +23,7 @@ source /[your name]/home/[your workspace]/devel/setup.bash
 
 roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
-[a screenshot](https://imgur.com/pMLVPz2)
+![](https://imgur.com/gallery/buCX9oj)
  
 #### to launch SLAM open a new terminal tab and run: 
 

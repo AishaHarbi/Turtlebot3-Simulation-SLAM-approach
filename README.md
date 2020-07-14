@@ -64,6 +64,6 @@ rosrun map_server map_saver -f ~/map
 
 #### the map after you move the turtlebot3 around its environment 
 
-![Screen Shot 2020-07-14 at 20 34 32](https://user-images.githubusercontent.com/45641051/87462180-304ba500-c618-11ea-8bed-9a0a755b198a.png)
+![Screen Shot 2020-07-14 at 21 31 08](https://user-images.githubusercontent.com/45641051/87463116-9b49ab80-c619-11ea-8769-eb197a68b30a.png)
 
 
